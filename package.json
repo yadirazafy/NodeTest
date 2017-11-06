@@ -1,0 +1,24 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "Yadira Zavala",
+  "license": "UNLICENSED"
+}
